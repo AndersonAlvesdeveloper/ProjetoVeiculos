@@ -1,0 +1,148 @@
+﻿@** Define a classe de modelo desta página *@
+@model Veiculos.Presentation.Models.VeiculoEdicaoModel
+
+
+@{
+    ViewData["Title"] = "Edicao";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="card">
+    <div class="card-body">
+
+        <h4>Edição de Veiculos</h4>
+        <p>Preencha o formulário para incluir um Veiculo no Sistema.</p>
+        <hr />
+
+        @using (Html.BeginForm())
+        {
+            <dvi>
+                @Html.HiddenFor(model =>model.IdVeiculo)
+            </dvi>
+
+            <div class="row mb-2">
+                <div class="col-md-3">
+                    <label>Marca:</label>
+                    @Html.TextBoxFor(model => model.Marca,
+                    new { @class = "form-control" })
+                    <div class="text-danger">
+                        @Html.ValidationMessageFor(model => model.Marca)
+                    </div>
+                </div>
+
+            </div>
+            <div class="row mb-2">
+                <div class="col-md-3">
+                    <label>Cor :</label>
+                    @Html.TextBoxFor(model => model.Cor ,
+                    new { @class = "form-control" })
+                    <div class="text-danger">
+                        @Html.ValidationMessageFor(model => model.Cor )
+                    </div>
+                </div>
+
+            </div>
+            <div class="row mb-3">
+                <div class="col-md-3">
+                    <label>Ano  :</label>
+                    @Html.TextBoxFor(model => model.Ano,
+                    new { @class = "form-control" })
+                    <div class="text-danger">
+                        @Html.ValidationMessageFor(model => model.Ano  )
+                    </div>
+                </div>
+
+            </div>
+            <div class="row mb-2">
+                <div class="col-md-3">
+                    <label>Modelo   :</label>
+                    @Html.TextBoxFor(model => model.Modelo,
+                    new { @class = "form-control" })
+                    <div class="text-danger">
+                        @Html.ValidationMessageFor(model => model.Modelo   )
+                    </div>
+                </div>
+
+            </div>
+            <div class="row mb-2">
+                <div class="col-md-3">
+                    <label>Placa    :</label>
+                    @Html.TextBoxFor(model => model.Placa,
+                    new { @class = "form-control" })
+                    <div class="text-danger">
+                        @Html.ValidationMessageFor(model => model.Placa    )
+                    </div>
+                </div>
+
+            </div>
+            <div class="row mb-2">
+                <div class="col-md-3">
+                    <label>Chassi     :</label>
+                    @Html.TextBoxFor(model => model.Chassi,
+                    new { @class = "form-control" })
+                    <div class="text-danger">
+                        @Html.ValidationMessageFor(model => model.Chassi     )
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="row mb-2">
+                <div class="col-md-3">
+                    <label>Valor de Entrada      :</label>
+                    @Html.TextBoxFor(model => model.ValorEntrada,
+                    new { @class = "form-control" })
+                    <div class="text-danger">
+                        @Html.ValidationMessageFor(model => model.ValorEntrada      )
+                    </div>
+                </div>
+            </div>
+
+            <div class="row mb-2">
+                <div class="col-md-3">
+                    <label>Valor final do veículo   :</label>
+                    @Html.TextBoxFor(model => model.ValorFinal,
+                    new { @class = "form-control" })
+                    <div class="text-danger">
+                        @Html.ValidationMessageFor(model => model.ValorFinal       )
+                    </div>
+                </div>
+            </div>
+
+            <div class="row mb-2">
+                <div class="col-md-3">
+                    <label>Valor de Venda:</label>
+                    @Html.TextBoxFor(model => model.ValorDeVenda,
+                    new { @class = "form-control" })
+                    <div class="text-danger">
+                        @Html.ValidationMessageFor(model => model.ValorDeVenda        )
+                    </div>
+                </div>
+            </div>
+
+            <div class="row mb-4">
+                <div class="col-md-3">
+                    <label>Melhorias Executadas:</label>
+                    @Html.TextBoxFor(model => model.Melhorias,
+                    new { @class = "form-control" })
+                    <div class="text-danger">
+                        @Html.ValidationMessageFor(model => model.Melhorias )
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="row mb-2">
+
+                <div class="col-md-12">
+                    <input type="submit" value="Salvar Alterações"
+                       class="btn btn-success" />
+                </div>
+
+            </div>
+        }
+
+    </div>
+</div>
+

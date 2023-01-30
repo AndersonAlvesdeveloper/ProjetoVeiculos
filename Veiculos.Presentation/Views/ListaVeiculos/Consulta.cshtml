@@ -1,0 +1,70 @@
+﻿@** Define a classe de modelo de dados *@
+@model List<Veiculos.Presentation.Models.VeiculoConsultaModel>
+
+
+@{
+    ViewData["Title"] = "Consulta";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="card">
+    <div class="card-body">
+
+        <h4>Consulta de Veículos</h4>
+        <p>Listagem de veículos.</p>
+        <hr />
+
+        <table class="table table-sm table-hover">
+            <thead>
+                <tr>
+                    <th>Marca </th>
+                    <th>Cor </th>
+                    <th>Ano </th>
+                    <th>Modelo </th>
+                    <th>Placa </th>
+                    <th>Chassi </th>
+                    <th>ValorEntrada </th>
+                    <th>ValorFinal </th>
+                    <th>ValorDeVenda  </th>
+                    <th>Melhorias  </th>
+                   
+                </tr>
+            </thead>
+
+            <tbody>
+                @foreach (var @item in Model)
+                {
+                    <tr>
+                        <td>@item.Marca</td>
+                        <td>@item.Cor</td>
+                        <td>@item.Ano</td>
+                        <td>@item.Modelo</td>
+                        <td>@item.Placa</td>
+                        <td>@item.Chassi</td>
+                        <td>@item.ValorEntrada</td>
+                        <td>@item.ValorFinal</td>
+                        <td>@item.ValorDeVenda</td>
+                        <td>@item.Melhorias</td>
+                        <td>
+                            <a href="/ListaVeiculos/Edicao/@item.IdVeiculo"class="btn btn-sm btn-primary">
+                                Editar
+                            </a>
+                            <a href="/ListaVeiculos/Exclusao/@item.IdVeiculo"class="btn btn-sm btn-danger"onclick="return confirm('Deseja realmente excluir o Veiculo: @item.Modelo?');">
+                                Excluir
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="6">
+                        Quantidade de Veículos: @Model.Count
+                    </td>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+</div>
+
+

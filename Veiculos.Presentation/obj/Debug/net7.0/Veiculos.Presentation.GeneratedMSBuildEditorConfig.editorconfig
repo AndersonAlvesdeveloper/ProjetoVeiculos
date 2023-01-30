@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Veiculos.Presentation
+build_property.RootNamespace = Veiculos.Presentation
+build_property.ProjectDir = C:\Users\manin\Desktop\Maninho veiculos\Veiculos\Veiculos.Presentation\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\manin\Desktop\Maninho veiculos\Veiculos\Veiculos.Presentation
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/manin/Desktop/Maninho veiculos/Veiculos/Veiculos.Presentation/Views/Conta/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/manin/Desktop/Maninho veiculos/Veiculos/Veiculos.Presentation/Views/Conta/Password.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFcUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/manin/Desktop/Maninho veiculos/Veiculos/Veiculos.Presentation/Views/Conta/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/manin/Desktop/Maninho veiculos/Veiculos/Veiculos.Presentation/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/manin/Desktop/Maninho veiculos/Veiculos/Veiculos.Presentation/Views/ListaVeiculos/Cadastro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdGFWZWljdWxvc1xDYWRhc3Ryby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/manin/Desktop/Maninho veiculos/Veiculos/Veiculos.Presentation/Views/ListaVeiculos/Consulta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdGFWZWljdWxvc1xDb25zdWx0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/manin/Desktop/Maninho veiculos/Veiculos/Veiculos.Presentation/Views/ListaVeiculos/Edicao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdGFWZWljdWxvc1xFZGljYW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/manin/Desktop/Maninho veiculos/Veiculos/Veiculos.Presentation/Views/ListaVeiculos/Exclusao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdGFWZWljdWxvc1xFeGNsdXNhby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/manin/Desktop/Maninho veiculos/Veiculos/Veiculos.Presentation/Views/ListaVeiculos/Relatorio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdGFWZWljdWxvc1xSZWxhdG9yaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/manin/Desktop/Maninho veiculos/Veiculos/Veiculos.Presentation/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/manin/Desktop/Maninho veiculos/Veiculos/Veiculos.Presentation/Views/Vendedor/MinhaConta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGVkb3JcTWluaGFDb250YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/manin/Desktop/Maninho veiculos/Veiculos/Veiculos.Presentation/Views/Shared/_ContaLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db250YUxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-04g2kbcqhs

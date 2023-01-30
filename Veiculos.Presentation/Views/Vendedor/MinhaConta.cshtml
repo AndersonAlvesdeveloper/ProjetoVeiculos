@@ -1,0 +1,72 @@
+﻿  @** Classe de modelo desta página *@
+@model Veiculos.Presentation.Models.VendedorMinhaContaModel
+
+
+@using Veiculos.Presentation.Models
+@using Newtonsoft.Json
+
+@{
+    //ler o conteudo do cookie de autenticação do AspNet
+    var json = User.Identity.Name;
+    //deserializar de JSON para objeto
+    var auth = JsonConvert.DeserializeObject<AutenticacaoModel>(json);
+}
+
+@{
+    ViewData["Title"] = "MinhaConta";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="card">
+    <div class="card-body">
+        <div class="mb-2">
+            Id do usuário: <strong>@auth.IdVendedor</strong>
+        </div>
+        <div class="mb-2">
+            Nome do usuário: <strong>@auth.Nome</strong>
+        </div>
+        <div class="mb-2">
+            Email de acesso: <strong>@auth.Email</strong>
+        </div>
+        <div class="mb-2">
+            Data e hora de acesso: <strong>@auth.DataHoraAcesso</strong>
+        </div>
+    </div>
+</div>
+<div class="card mb-3">
+    <div class="card-body">
+
+        @using (Html.BeginForm())
+        {
+            <div class="row mb-2">
+                <div class="col-md-4">
+                    <label>Informe a nova senha:</label>
+                    @Html.PasswordFor(model => model.NovaSenha,
+                new { @class = "form-control" })
+                    <div class="text-danger">
+                        @Html.ValidationMessageFor(model => model.NovaSenha)
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <label>Confirme a nova senha:</label>
+                    @Html.PasswordFor(model => model.NovaSenhaConfirmacao,
+                    new { @class = "form-control" })
+                    <div class="text-danger">
+                        @Html.ValidationMessageFor(model => model.NovaSenhaConfirmacao)
+                    </div>
+                </div>
+            </div>
+
+            <div class="row mb-2">
+                <div class="col-md-12">
+                    <input type="submit" class="btn btn-primary"
+                       value="Salvar Alterações" />
+                </div>
+            </div>
+        }
+
+    </div>
+</div>
+
+
+

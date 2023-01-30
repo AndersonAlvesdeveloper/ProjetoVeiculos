@@ -1,0 +1,30 @@
+C:\Users\manin\Desktop\Controle de veiculos\Veiculos\Veiculo.Reports\bin\Debug\net7.0\Veiculos.Reports.deps.json
+C:\Users\manin\Desktop\Controle de veiculos\Veiculos\Veiculo.Reports\bin\Debug\net7.0\Veiculos.Reports.dll
+C:\Users\manin\Desktop\Controle de veiculos\Veiculos\Veiculo.Reports\bin\Debug\net7.0\Veiculos.Reports.pdb
+C:\Users\manin\Desktop\Controle de veiculos\Veiculos\Veiculo.Reports\bin\Debug\net7.0\Veiculos.Data.dll
+C:\Users\manin\Desktop\Controle de veiculos\Veiculos\Veiculo.Reports\bin\Debug\net7.0\Veiculos.Data.pdb
+C:\Users\manin\Desktop\Controle de veiculos\Veiculos\Veiculo.Reports\obj\Debug\net7.0\Veiculos.Reports.csproj.AssemblyReference.cache
+C:\Users\manin\Desktop\Controle de veiculos\Veiculos\Veiculo.Reports\obj\Debug\net7.0\Veiculos.Reports.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manin\Desktop\Controle de veiculos\Veiculos\Veiculo.Reports\obj\Debug\net7.0\Veiculos.Reports.AssemblyInfoInputs.cache
+C:\Users\manin\Desktop\Controle de veiculos\Veiculos\Veiculo.Reports\obj\Debug\net7.0\Veiculos.Reports.AssemblyInfo.cs
+C:\Users\manin\Desktop\Controle de veiculos\Veiculos\Veiculo.Reports\obj\Debug\net7.0\Veiculos.Reports.csproj.CoreCompileInputs.cache
+C:\Users\manin\Desktop\Controle de veiculos\Veiculos\Veiculo.Reports\obj\Debug\net7.0\Veiculos.Reports.csproj.CopyComplete
+C:\Users\manin\Desktop\Controle de veiculos\Veiculos\Veiculo.Reports\obj\Debug\net7.0\Veiculos.Reports.dll
+C:\Users\manin\Desktop\Controle de veiculos\Veiculos\Veiculo.Reports\obj\Debug\net7.0\refint\Veiculos.Reports.dll
+C:\Users\manin\Desktop\Controle de veiculos\Veiculos\Veiculo.Reports\obj\Debug\net7.0\Veiculos.Reports.pdb
+C:\Users\manin\Desktop\Controle de veiculos\Veiculos\Veiculo.Reports\obj\Debug\net7.0\ref\Veiculos.Reports.dll
+C:\Users\manin\Desktop\Maninho veiculos\Veiculos\Veiculo.Reports\bin\Debug\net7.0\Veiculos.Reports.deps.json
+C:\Users\manin\Desktop\Maninho veiculos\Veiculos\Veiculo.Reports\bin\Debug\net7.0\Veiculos.Reports.dll
+C:\Users\manin\Desktop\Maninho veiculos\Veiculos\Veiculo.Reports\bin\Debug\net7.0\Veiculos.Reports.pdb
+C:\Users\manin\Desktop\Maninho veiculos\Veiculos\Veiculo.Reports\bin\Debug\net7.0\Veiculos.Data.dll
+C:\Users\manin\Desktop\Maninho veiculos\Veiculos\Veiculo.Reports\bin\Debug\net7.0\Veiculos.Data.pdb
+C:\Users\manin\Desktop\Maninho veiculos\Veiculos\Veiculo.Reports\obj\Debug\net7.0\Veiculos.Reports.csproj.AssemblyReference.cache
+C:\Users\manin\Desktop\Maninho veiculos\Veiculos\Veiculo.Reports\obj\Debug\net7.0\Veiculos.Reports.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manin\Desktop\Maninho veiculos\Veiculos\Veiculo.Reports\obj\Debug\net7.0\Veiculos.Reports.AssemblyInfoInputs.cache
+C:\Users\manin\Desktop\Maninho veiculos\Veiculos\Veiculo.Reports\obj\Debug\net7.0\Veiculos.Reports.AssemblyInfo.cs
+C:\Users\manin\Desktop\Maninho veiculos\Veiculos\Veiculo.Reports\obj\Debug\net7.0\Veiculos.Reports.csproj.CoreCompileInputs.cache
+C:\Users\manin\Desktop\Maninho veiculos\Veiculos\Veiculo.Reports\obj\Debug\net7.0\Veiculos.Reports.csproj.CopyComplete
+C:\Users\manin\Desktop\Maninho veiculos\Veiculos\Veiculo.Reports\obj\Debug\net7.0\Veiculos.Reports.dll
+C:\Users\manin\Desktop\Maninho veiculos\Veiculos\Veiculo.Reports\obj\Debug\net7.0\refint\Veiculos.Reports.dll
+C:\Users\manin\Desktop\Maninho veiculos\Veiculos\Veiculo.Reports\obj\Debug\net7.0\Veiculos.Reports.pdb
+C:\Users\manin\Desktop\Maninho veiculos\Veiculos\Veiculo.Reports\obj\Debug\net7.0\ref\Veiculos.Reports.dll

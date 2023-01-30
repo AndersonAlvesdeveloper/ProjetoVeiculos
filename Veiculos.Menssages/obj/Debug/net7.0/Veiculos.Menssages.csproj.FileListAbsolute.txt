@@ -1,0 +1,12 @@
+C:\Users\manin\Desktop\Maninho veiculos\Veiculos\Veiculos.Menssages\bin\Debug\net7.0\Veiculos.Menssages.deps.json
+C:\Users\manin\Desktop\Maninho veiculos\Veiculos\Veiculos.Menssages\bin\Debug\net7.0\Veiculos.Menssages.dll
+C:\Users\manin\Desktop\Maninho veiculos\Veiculos\Veiculos.Menssages\bin\Debug\net7.0\Veiculos.Menssages.pdb
+C:\Users\manin\Desktop\Maninho veiculos\Veiculos\Veiculos.Menssages\obj\Debug\net7.0\Veiculos.Menssages.csproj.AssemblyReference.cache
+C:\Users\manin\Desktop\Maninho veiculos\Veiculos\Veiculos.Menssages\obj\Debug\net7.0\Veiculos.Menssages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manin\Desktop\Maninho veiculos\Veiculos\Veiculos.Menssages\obj\Debug\net7.0\Veiculos.Menssages.AssemblyInfoInputs.cache
+C:\Users\manin\Desktop\Maninho veiculos\Veiculos\Veiculos.Menssages\obj\Debug\net7.0\Veiculos.Menssages.AssemblyInfo.cs
+C:\Users\manin\Desktop\Maninho veiculos\Veiculos\Veiculos.Menssages\obj\Debug\net7.0\Veiculos.Menssages.csproj.CoreCompileInputs.cache
+C:\Users\manin\Desktop\Maninho veiculos\Veiculos\Veiculos.Menssages\obj\Debug\net7.0\Veiculos.Menssages.dll
+C:\Users\manin\Desktop\Maninho veiculos\Veiculos\Veiculos.Menssages\obj\Debug\net7.0\refint\Veiculos.Menssages.dll
+C:\Users\manin\Desktop\Maninho veiculos\Veiculos\Veiculos.Menssages\obj\Debug\net7.0\Veiculos.Menssages.pdb
+C:\Users\manin\Desktop\Maninho veiculos\Veiculos\Veiculos.Menssages\obj\Debug\net7.0\ref\Veiculos.Menssages.dll

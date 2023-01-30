@@ -1,0 +1,24 @@
+C:\Users\manin\Desktop\Controle de veiculos\Veiculos\Veiculos.Data\bin\Debug\net7.0\Veiculos.Data.deps.json
+C:\Users\manin\Desktop\Controle de veiculos\Veiculos\Veiculos.Data\bin\Debug\net7.0\Veiculos.Data.dll
+C:\Users\manin\Desktop\Controle de veiculos\Veiculos\Veiculos.Data\bin\Debug\net7.0\Veiculos.Data.pdb
+C:\Users\manin\Desktop\Controle de veiculos\Veiculos\Veiculos.Data\obj\Debug\net7.0\Veiculos.Data.csproj.AssemblyReference.cache
+C:\Users\manin\Desktop\Controle de veiculos\Veiculos\Veiculos.Data\obj\Debug\net7.0\Veiculos.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manin\Desktop\Controle de veiculos\Veiculos\Veiculos.Data\obj\Debug\net7.0\Veiculos.Data.AssemblyInfoInputs.cache
+C:\Users\manin\Desktop\Controle de veiculos\Veiculos\Veiculos.Data\obj\Debug\net7.0\Veiculos.Data.AssemblyInfo.cs
+C:\Users\manin\Desktop\Controle de veiculos\Veiculos\Veiculos.Data\obj\Debug\net7.0\Veiculos.Data.csproj.CoreCompileInputs.cache
+C:\Users\manin\Desktop\Controle de veiculos\Veiculos\Veiculos.Data\obj\Debug\net7.0\Veiculos.Data.dll
+C:\Users\manin\Desktop\Controle de veiculos\Veiculos\Veiculos.Data\obj\Debug\net7.0\refint\Veiculos.Data.dll
+C:\Users\manin\Desktop\Controle de veiculos\Veiculos\Veiculos.Data\obj\Debug\net7.0\Veiculos.Data.pdb
+C:\Users\manin\Desktop\Controle de veiculos\Veiculos\Veiculos.Data\obj\Debug\net7.0\ref\Veiculos.Data.dll
+C:\Users\manin\Desktop\Maninho veiculos\Veiculos\Veiculos.Data\bin\Debug\net7.0\Veiculos.Data.deps.json
+C:\Users\manin\Desktop\Maninho veiculos\Veiculos\Veiculos.Data\bin\Debug\net7.0\Veiculos.Data.dll
+C:\Users\manin\Desktop\Maninho veiculos\Veiculos\Veiculos.Data\bin\Debug\net7.0\Veiculos.Data.pdb
+C:\Users\manin\Desktop\Maninho veiculos\Veiculos\Veiculos.Data\obj\Debug\net7.0\Veiculos.Data.csproj.AssemblyReference.cache
+C:\Users\manin\Desktop\Maninho veiculos\Veiculos\Veiculos.Data\obj\Debug\net7.0\Veiculos.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manin\Desktop\Maninho veiculos\Veiculos\Veiculos.Data\obj\Debug\net7.0\Veiculos.Data.AssemblyInfoInputs.cache
+C:\Users\manin\Desktop\Maninho veiculos\Veiculos\Veiculos.Data\obj\Debug\net7.0\Veiculos.Data.AssemblyInfo.cs
+C:\Users\manin\Desktop\Maninho veiculos\Veiculos\Veiculos.Data\obj\Debug\net7.0\Veiculos.Data.csproj.CoreCompileInputs.cache
+C:\Users\manin\Desktop\Maninho veiculos\Veiculos\Veiculos.Data\obj\Debug\net7.0\Veiculos.Data.dll
+C:\Users\manin\Desktop\Maninho veiculos\Veiculos\Veiculos.Data\obj\Debug\net7.0\refint\Veiculos.Data.dll
+C:\Users\manin\Desktop\Maninho veiculos\Veiculos\Veiculos.Data\obj\Debug\net7.0\Veiculos.Data.pdb
+C:\Users\manin\Desktop\Maninho veiculos\Veiculos\Veiculos.Data\obj\Debug\net7.0\ref\Veiculos.Data.dll

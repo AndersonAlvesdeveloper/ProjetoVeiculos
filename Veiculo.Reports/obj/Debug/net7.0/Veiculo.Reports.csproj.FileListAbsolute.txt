@@ -1,0 +1,5 @@
+C:\Users\manin\Desktop\Controle de veiculos\Veiculos\Veiculo.Reports\obj\Debug\net7.0\Veiculo.Reports.csproj.AssemblyReference.cache
+C:\Users\manin\Desktop\Controle de veiculos\Veiculos\Veiculo.Reports\obj\Debug\net7.0\Veiculo.Reports.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manin\Desktop\Controle de veiculos\Veiculos\Veiculo.Reports\obj\Debug\net7.0\Veiculo.Reports.AssemblyInfoInputs.cache
+C:\Users\manin\Desktop\Controle de veiculos\Veiculos\Veiculo.Reports\obj\Debug\net7.0\Veiculo.Reports.AssemblyInfo.cs
+C:\Users\manin\Desktop\Controle de veiculos\Veiculos\Veiculo.Reports\obj\Debug\net7.0\Veiculo.Reports.csproj.CoreCompileInputs.cache
